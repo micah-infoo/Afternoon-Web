@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+body{
+    background-image:url(culture.JPG) ;
+    background-size: cover;
+}
+p{
+    color: yellow;
+}
+.ict{
+    color: aliceblue;
+}
+.me{
+    color: chartreuse;
+    background-color: grey;
+}
